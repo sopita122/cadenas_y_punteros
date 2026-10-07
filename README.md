@@ -1,0 +1,1 @@
+Sistema básico de control de acceso por edad en C++ manipulando los datos en la memoria RAM mediante el uso directo de punteros y desreferenciación, el programa pide la edad, verifica si es mayor o menor de 18 años y muestra el resultado junto con la dirección de memoria.
